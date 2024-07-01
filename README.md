@@ -11,5 +11,6 @@ This project is a simple shopping frontend that allows users to see how the desi
 ## Technologies Used
 
 -   JavaScript (ES6)
+-   -Next js
 -   Typescript
 - Tailwind CSS
