@@ -8,7 +8,7 @@ import { AiOutlineHome, AiOutlineAppstore } from "react-icons/ai";
 const MobNavbar = () => {
   return (
     <div className="lg:hidden fixed bottom-0 w-full bg-white left-[50%] -translate-x-[50%] max-w-[500px] mob_navbar px-8">
-      <div className="flex justify-between text-[28px] py-2">
+      <div className="flex justify-between text-[28px] py-3">
         <IoMenuOutline />
         <div className="relative">
           <HiOutlineShoppingBag />
